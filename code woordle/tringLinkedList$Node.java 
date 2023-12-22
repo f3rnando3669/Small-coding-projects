@@ -1,0 +1,9 @@
+private class Node
+{
+    String data;
+    Node next;
+    
+    private Node(final StringLinkedList this$0) {
+        this.this$0 = this$0;
+    }
+}
